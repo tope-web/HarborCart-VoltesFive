@@ -1,0 +1,4 @@
+Cluster,Segment,Customers,Recency_median,Frequency_median,Monetary_median,Monetary_total,Customer_share,Revenue_share
+0,Lapsed Low-Value,1871,160.0,1.0,298.4,679433.151,0.43130474873213465,0.0762430761019286
+1,Active Regulars,1704,30.0,3.0,980.015,2151574.943,0.39280774550484093,0.24144051828603177
+2,Loyal High-Value,763,10.0,10.0,3722.82,6080399.81,0.17588750576302445,0.6823164056120397

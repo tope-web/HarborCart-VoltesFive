@@ -1,0 +1,7 @@
+rule,removed_at_step,remaining
+cancelled_invoice,9288,532621
+missing_customer_id,134697,397924
+missing_invoice_number,0,397924
+invalid_invoice_date,0,397924
+missing_or_nonpositive_quantity,0,397924
+missing_or_nonpositive_unit_price,40,397884
